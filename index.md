@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+# ANNYEONG!Welcome to Yna's website
 
-You can use the [editor on GitHub](https://github.com/Yyynaa/J-yna-B/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+On this page, I will discuss the K-pop's Biggest Girlgroup, BLACKPINK
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# INTRODUCTION
 
-### Markdown
+Blackpink made their debut in 2016 with the short album Square One, which had only two songs — "Whistle" and "Boombayah." The debut was widely pushed in the K-pop world because Blackpink was YG Entertainment's first girl group in seven years.According to the statement, "the connotation of BLACKPINK intends to contrast the popular idea of the hue pink." "Pink is typically used to depict prettiness, but BLACKPINK truly means 'Pretty isn't everything.' It also represents that they are a team that includes not just beauty, but also excellent skill." The four-member (Jisoo, Jennie, Rosé, Lisa) South Korean girl band — who get their name from the mixture of tough "black" and flirty "pink" of their songs — have been global superstars since the release of their June 2016 single "Boombayah."
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## BOOMBAYAH
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bwmSjveL3Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Who are the members of Blackpink?
 
-1. Numbered
-2. List
+## Kim Jisoo
+![jisoo](https://user-images.githubusercontent.com/94122259/158776336-7d3b6c15-aa44-43b5-87f4-828178673b26.jpeg)
 
-**Bold** and _Italic_ and `Code` text
+Kim Jisoo is a singer, often referred to as "adorable" by BLINKs (the official name of Blackpink fans). She's known her steadiness and composure — and for balancing random objects on her head or shoulders — previous videos showed her with a cup or an award on her head. The BLACKPINK member is the only one who has not made her solo debut, however this will change very soon, as she recently announced that it will be released in 2022. Jisoo has everyone captivated with her K-Drama “Snowdrop“.
 
-[Link](url) and ![Image](src)
-```
+## Kim Jennie
+![jennie](https://user-images.githubusercontent.com/94122259/158776615-b428d81e-6d40-4090-8039-e2ec618fb1b2.jpg)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Kim Jennie was in the trainee for just shy of six years — the longest of the members. Jennie lived in New Zealand before moving back to South Korea in 2010, and speaks fluent English, Korean, and Japanese. She was the first member of Blackpink to release an individual track, titled "SOLO."
 
-### Jekyll Themes
+## SOLO
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b73BI9eUkjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yyynaa/J-yna-B/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Park Chaeyoung (Rosé)
+![chae](https://user-images.githubusercontent.com/94122259/158776882-f1be880d-8300-480b-b1ad-e3a1cc65a5e8.jpg)
+
+Park Chaeyoung (Rosé) was born in New Zealand and raised in Australia — where she auditioned for YG Entertainment. Rosé is fluent in English and learned Korean after moving to South Korea to take part in the trainee program. She is the group's main singer, and fans claim her distinct voice is easy to recognize. Rosé's solo album consists of two songs namely the title track On the Ground and the second one, Gone.
+
+## ON THE GROUND
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKZvWhCqx1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## gone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K9_VFxzCuQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+## Lalisa Manoban
+![lisa](https://user-images.githubusercontent.com/94122259/158777283-3dadf0f3-2c19-4939-8bf1-4ed4f7a475ef.jpg)
+
+
+Lalisa Pranpriya Manoban is known for both her rap and dance skills. Born and raised in Thailand, Lisa (like Rosé) — learned Korean after moving to South Korea in 2011. Lisa also speaks English, Japanese, and Chinese. During promo appearances, Lisa often showcases her impromptu dancing skills, creating viral moments for the group. Lisa has finally made her highly anticipated solo debut with the release of her first-ever single album, 'Lalisa'. The project features four tracks, including the title track 'Lalisa' and B-side 'Money', alongside their instrumental versions.
+
+## LALISA
+<iframe width="560" height="315" src="https://www.youtube.com/embed/awkkyBH2zEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## MONEY
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3EMskGIxC0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Additional
+BLACKPINK Members are ambassadors of:
+
+1. BLACKPINK'S Jisoo For Dior.
+2. BLACKPINK'S Rose for Yves Saint Laurent & Tiffany & Co. 
+3. BLACKPINK'S Lisa for Celine & Bvlgari. 
+4. BLACKPINK'S Jennie for Calvin Klein, Channel
+
+### IF YOU WANTED TO WATCH BLACKPINK THE MOVIE
+[BLACKPINK THE MOVIE](https://cineb.net/watch-movie/watch-blackpink-the-movie-free-75598.5606911)
+
+Made by: Niña Buenaflor of GONZALEZ A
+
+source: [EXPLORE BLACKPINK](https://people.com/music/blackpink-what-you-need-to-know-about-kpops-biggest-girl-group/)
