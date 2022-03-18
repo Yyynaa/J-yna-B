@@ -61,9 +61,6 @@ BLACKPINK Members are ambassadors of:
 3. BLACKPINK'S Lisa for Celine & Bvlgari. 
 4. BLACKPINK'S Jennie for Calvin Klein, Channel
 
-### IF YOU WANTED TO WATCH BLACKPINK THE MOVIE
-[BLACKPINK THE MOVIE](https://cineb.net/watch-movie/watch-blackpink-the-movie-free-75598.5606911)
-
 Made by: Niña Buenaflor of GONZALEZ A
 
 source: [EXPLORE BLACKPINK](https://people.com/music/blackpink-what-you-need-to-know-about-kpops-biggest-girl-group/)
